@@ -1,0 +1,5 @@
+num-num: 5.947674
+grid-num: 4.702107
+grid-rbc: 3.167653
+grid-quantileR: 1.489880
+grid-oneGaussian: 3.273035
