@@ -1,0 +1,6 @@
+num-num: 5.695762
+grid-num: 4.332450
+grid-rbc: 4.277884
+grid-classOffset: 10.087824
+grid-quantileR: 0.828405
+grid-oneGaussian: 4.180146
