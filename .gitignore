@@ -216,3 +216,8 @@ docs/source/changelog.md
 .jupyter_releaser_checkout
 
 #----------------------------------#
+
+
+# Directories to be ignored
+my_mnist_model
+
