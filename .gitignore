@@ -217,6 +217,8 @@ docs/source/changelog.md
 
 #----------------------------------#
 
+# Data type to be ignored
+*.npy
 
 # Directories to be ignored
 my_mnist_model
