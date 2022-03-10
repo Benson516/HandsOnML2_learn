@@ -7,7 +7,7 @@ datasets/
 *.pkl
 *.h5
 *.tfrecord
-
+*.tflite
 
 # Python
 #----------------------------------#
